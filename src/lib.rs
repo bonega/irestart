@@ -1,0 +1,3 @@
+#[ctor::ctor]
+fn ctor() {
+}
